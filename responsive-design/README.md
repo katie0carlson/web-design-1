@@ -1,14 +1,14 @@
 This directory includes projects focused on responsive design. 
 
-Site-4-A-Cause: 
-  -This website is designed to educate the public about AIDS/HIV and motivate them to support 
-  -Features a landing page, a learning center, and a donation page where visitors can contribute financially
-  -Uses bootstrap for responsive design and styles adaptable to smartphone, tablet, and desktop viewing
+Site-4-A-Cause: <br>
+  -This website is designed to educate the public about AIDS/HIV and motivate them to support <br>
+  -Features a landing page, a learning center, and a donation page where visitors can contribute financially<br>
+  -Uses bootstrap for responsive design and styles adaptable to smartphone, tablet, and desktop viewing<br>
 
-Interest-Site: 
-  -This website is themed after TRON
-  -Features 3 pages designed manipulating the grid, experimenting with typography and color theory
-  -Incorporates CSS media queries to design a responsive website that is adaptable to smartphone, tablet, and desktop viewing 
-  -Designs were created using FIGMA
+Interest-Site: <br>
+  -This website is themed after TRON<br>
+  -Features 3 pages designed manipulating the grid, experimenting with typography and color theory<br>
+  -Incorporates CSS media queries to design a responsive website that is adaptable to smartphone, tablet, and desktop viewing <br>
+  -Designs were created using FIGMA<br>
 
 
