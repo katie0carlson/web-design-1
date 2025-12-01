@@ -1,2 +1,2 @@
 # web-design-1
-This repository contains projects from my Web Design course. Coursework includes projects using BASH, HTML/CSS, JavaScript and jQuery.
+This repository contains projects from Web Design coursework. Coursework includes projects using BASH, HTML/CSS, JavaScript and jQuery.
