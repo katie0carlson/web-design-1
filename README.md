@@ -12,5 +12,5 @@ This repository contains projects from Web Design coursework. Coursework include
     -This website is themed after TRON<br>
     -Features 3 pages designed manipulating the grid, experimenting with typography and color theory<br>
     -Incorporates CSS media queries to design a responsive website that is adaptable to smartphone, tablet, and desktop viewing <br>
-    -Interactive elements were creatd using jQuery
+    -Interactive elements were creatd using jQuery <br>
     -Designs were created using FIGMA<br>
